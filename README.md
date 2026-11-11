@@ -48,7 +48,6 @@ A partir dessa base, quero aprofundar infraestrutura como código, **CI/CD**, se
 
 | Projeto | O que reúne |
 | --- | --- |
-| [Alertas Azure](https://github.com/DevDanielAlbuquerque/dashboardnew) | Projeto em Python com Streamlit, Azure Functions, SQL Server e notificações pelo Telegram. Em reorganização gradual. |
 | [Laboratório de Linux e Grafana](https://github.com/DevDanielAlbuquerque/lab-grafana-ubuntu) | Etapa de estudos encerrada: primeiros exercícios no VirtualBox e na Azure com Grafana, Prometheus e Node Exporter. |
 | [Python — base e exercícios](https://github.com/DevDanielAlbuquerque/python-base-guia) | Estudos de lógica, estruturas de dados, funções e SQLite. |
 
