@@ -1,81 +1,55 @@
-# 👋 Olá, eu sou o Daniel Albuquerque
+# Olá, eu sou o Daniel Albuquerque 👋
 
-### 🧪 Linguagens
-![Python](https://img.shields.io/badge/Python-356AA0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
+**NOC e monitoramento · Estudos em sistemas, automação e nuvem**
 
-### ☁️ Cloud & Ferramentas
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=white)
+Atuo com monitoramento no NOC e estou construindo uma base em Linux, redes, programação e cloud. Gosto de entender como os serviços se conectam, investigar falhas e colocar ambientes para funcionar.
 
-Sou estudante e desenvolvedor em formação, com foco em **Python**, **SQL** e **Cloud (AWS/Azure)**.  
-Atualmente atuo com suporte técnico e estou em transição para áreas de **back-end** e **infraestrutura**, buscando consolidar minha base em desenvolvimento e arquitetura de sistemas.
+Meu objetivo é evoluir para trabalhar com infraestrutura, automação e aplicações em nuvem, aprofundando minha atuação conforme a experiência e as oportunidades. Tenho interesse em engenharia de cloud, DevOps, confiabilidade e segurança em nuvem.
 
----
+## O que estou construindo
 
-## 🚀 Tecnologias & Ferramentas
+Uso a **Azure como ambiente principal de laboratório**, conectando os estudos de infraestrutura e desenvolvimento. Registro os passos, as dificuldades e as validações para conseguir explicar e reproduzir o que fiz.
 
-- 🐍 **Python** (lógica, funções, classes, automações)
-- 🌐 **APIs REST** (consumo de APIs externas)
-- 🗄️ **SQL** (consultas, filtros e organização de dados)
-- ☁️ **AWS & Azure** (conceitos e estudos práticos)
-- 🐙 **Git & GitHub**
-- 🐳 **Docker** (em aprendizado)
-- 🖥️ Ambientes **Linux** e **Windows**
+| Frente | Prática e estudos |
+| --- | --- |
+| Sistemas e redes | Linux, serviços, permissões, SSH, DNS e HTTP/HTTPS |
+| Programação e dados | Python, Shell, SQL e integração com APIs |
+| Infraestrutura em nuvem | Máquinas virtuais, redes e serviços Azure |
+| Monitoramento | Grafana, Prometheus e Node Exporter |
+| Automação | Primeiros passos com Terraform e Ansible |
 
----
+**CI/CD e segurança em nuvem** fazem parte do caminho que quero aprofundar, conectando entrega de aplicações, controle de acesso, gestão de segredos e confiabilidade.
 
-## 📂 Projetos
+## Projetos e estudos
 
-### 🔹 Lista de Repositórios GitHub
-Script em Python que consome a **API do GitHub** e lista os repositórios de um usuário.
+### [Laboratório de Linux e Grafana](https://github.com/DevDanielAlbuquerque/lab-grafana-ubuntu)
 
-**Tecnologias utilizadas:**  
-`Python` · `Requests` · `API REST`
+Laboratório iniciado no VirtualBox e expandido para uma VM Ubuntu na Azure, com Grafana, Prometheus e Node Exporter.
 
----
+Registro a instalação dos serviços, consultas de métricas, validações e dificuldades encontradas. É a base para aprofundar meus estudos em infraestrutura e observabilidade.
 
-### 🔹 Scripts e Automações em Python
-Coleção de scripts desenvolvidos para estudo de:
-- Lógica de programação
-- Funções e classes
-- Consumo de APIs
-- Manipulação de dados
+### [Alertas Azure](https://github.com/DevDanielAlbuquerque/dashboardnew)
 
-**Tecnologias utilizadas:**  
-`Python`
+Projeto em Python para gerenciamento e envio de alertas, reunindo interface Streamlit, Azure Functions, SQL Server e notificações pelo Telegram.
 
----
+É uma oportunidade de praticar a integração entre aplicação, banco de dados e serviços de nuvem. O projeto está em reorganização gradual.
 
-*(Novos projetos em desenvolvimento 🚧)*
+### [Python — base e exercícios](https://github.com/DevDanielAlbuquerque/python-base-guia)
 
----
+Repositório de estudos com exemplos de lógica, estruturas de dados, funções e SQLite. Serve de apoio para consolidar a programação e avançar em automações.
 
-## 📚 Atualmente estudando
+## Como acompanho minha evolução
 
-- Python 
-- Arquitetura de sistemas
-- Linux (linha de comando e fundamentos do sistema)
-- Integração entre serviços via API
-- Docker e containerização
-- Fundamentos de Cloud (AWS e Azure)
-- Boas práticas de versionamento com Git
+Em cada etapa, procuro registrar:
 
----
+- O problema ou conceito que estou estudando.
+- O que implementei e por que escolhi aquela solução.
+- Como validei o funcionamento.
+- As dificuldades, correções e aprendizados.
+- O que ainda precisa ser desenvolvido.
 
-## 🎯 Objetivo
+Os repositórios também preservam exercícios de cursos e experiências anteriores da minha formação. Os projetos acima representam melhor meu foco atual.
 
-Consolidar conhecimentos em desenvolvimento **back-end** e **infraestrutura**, evoluindo para atuar profissionalmente com **Python**, **Cloud** e **sistemas escaláveis**.
+## Contato
 
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](danielalbuquerquetech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevDanielAlbuquerque)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielalbuquerque90@gmail.com)
-
----
-
-⭐ Sempre buscando evoluir um passo por dia.
+[E-mail](mailto:danielalbuquerque90@gmail.com) · [GitHub](https://github.com/DevDanielAlbuquerque)
