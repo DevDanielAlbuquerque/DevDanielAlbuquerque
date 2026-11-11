@@ -1,54 +1,58 @@
 # Olá, eu sou o Daniel Albuquerque 👋
 
-**NOC e monitoramento · Estudos em sistemas, automação e nuvem**
+**NOC e monitoramento | Sistemas, automação e nuvem**
 
-Atuo com monitoramento no NOC e estou construindo uma base em Linux, redes, programação e cloud. Gosto de entender como os serviços se conectam, investigar falhas e colocar ambientes para funcionar.
+## Sobre mim
 
-Meu objetivo é evoluir para trabalhar com infraestrutura, automação e aplicações em nuvem, aprofundando minha atuação conforme a experiência e as oportunidades. Tenho interesse em engenharia de cloud, DevOps, confiabilidade e segurança em nuvem.
+Atuo com monitoramento no NOC e sou estudante de tecnologia. Gosto de entender como os sistemas funcionam, investigar falhas e conectar infraestrutura e aplicações.
 
-## O que estou construindo
+Estou construindo uma base sólida em **Linux, redes, programação e cloud**, com prática em laboratórios e projetos próprios. Uso a **Azure como ambiente principal de estudos em nuvem**.
 
-Uso a **Azure como ambiente principal de laboratório**, conectando os estudos de infraestrutura e desenvolvimento. Registro os passos, as dificuldades e as validações para conseguir explicar e reproduzir o que fiz.
+Quero evoluir para trabalhar com infraestrutura, automação e aplicações em nuvem. Tenho interesse em **Cloud, DevOps, confiabilidade e segurança**, aprofundando minha trajetória conforme a experiência e as oportunidades.
 
-| Frente | Prática e estudos |
-| --- | --- |
-| Sistemas e redes | Linux, serviços, permissões, SSH, DNS e HTTP/HTTPS |
-| Programação e dados | Python, Shell, SQL e integração com APIs |
-| Infraestrutura em nuvem | Máquinas virtuais, redes e serviços Azure |
-| Monitoramento | Grafana, Prometheus e Node Exporter |
-| Automação | Primeiros passos com Terraform e Ansible |
+## Tecnologias que utilizo e estudo
 
-**CI/CD e segurança em nuvem** fazem parte do caminho que quero aprofundar, conectando entrega de aplicações, controle de acesso, gestão de segredos e confiabilidade.
+Os badges representam ferramentas presentes nas minhas práticas e estudos, em diferentes níveis de aprendizado.
+
+### Sistemas e nuvem
+
+![Linux](https://img.shields.io/badge/Linux-24292F?style=for-the-badge&logo=linux&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Programação e versionamento
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Monitoramento
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### Automação de infraestrutura — primeiros passos
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+## Direção dos estudos
+
+Estou consolidando os fundamentos de sistemas, redes e programação para construir ambientes que consiga **explicar, reproduzir e manter**.
+
+A partir dessa base, quero aprofundar infraestrutura como código, **CI/CD**, segurança em nuvem e confiabilidade. Procuro conectar cada novo assunto a uma necessidade prática do laboratório.
 
 ## Projetos e estudos
 
-### [Laboratório de Linux e Grafana](https://github.com/DevDanielAlbuquerque/lab-grafana-ubuntu)
+| Projeto | O que reúne |
+| --- | --- |
+| [Alertas Azure](https://github.com/DevDanielAlbuquerque/dashboardnew) | Projeto em Python com Streamlit, Azure Functions, SQL Server e notificações pelo Telegram. Em reorganização gradual. |
+| [Laboratório de Linux e Grafana](https://github.com/DevDanielAlbuquerque/lab-grafana-ubuntu) | Etapa de estudos encerrada: primeiros exercícios no VirtualBox e na Azure com Grafana, Prometheus e Node Exporter. |
+| [Python — base e exercícios](https://github.com/DevDanielAlbuquerque/python-base-guia) | Estudos de lógica, estruturas de dados, funções e SQLite. |
 
-Laboratório iniciado no VirtualBox e expandido para uma VM Ubuntu na Azure, com Grafana, Prometheus e Node Exporter.
-
-Registro a instalação dos serviços, consultas de métricas, validações e dificuldades encontradas. É a base para aprofundar meus estudos em infraestrutura e observabilidade.
-
-### [Alertas Azure](https://github.com/DevDanielAlbuquerque/dashboardnew)
-
-Projeto em Python para gerenciamento e envio de alertas, reunindo interface Streamlit, Azure Functions, SQL Server e notificações pelo Telegram.
-
-É uma oportunidade de praticar a integração entre aplicação, banco de dados e serviços de nuvem. O projeto está em reorganização gradual.
-
-### [Python — base e exercícios](https://github.com/DevDanielAlbuquerque/python-base-guia)
-
-Repositório de estudos com exemplos de lógica, estruturas de dados, funções e SQLite. Serve de apoio para consolidar a programação e avançar em automações.
-
-## Como acompanho minha evolução
-
-Em cada etapa, procuro registrar:
-
-- O problema ou conceito que estou estudando.
-- O que implementei e por que escolhi aquela solução.
-- Como validei o funcionamento.
-- As dificuldades, correções e aprendizados.
-- O que ainda precisa ser desenvolvido.
-
-Os repositórios também preservam exercícios de cursos e experiências anteriores da minha formação. Os projetos acima representam melhor meu foco atual.
+Nos repositórios, registro os objetivos, as implementações, as validações e os aprendizados. Também preservo exercícios de cursos e experiências anteriores como parte da minha formação.
 
 ## Contato
 
